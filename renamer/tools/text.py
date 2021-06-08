@@ -59,4 +59,4 @@ __--Payment Methods:--__
  
 GooglePay / Paytm / PhonPay / paypal / Net Banking
  
-**For Donate:** message me @MaxxRiderz"""
+**For Donate:** message me @AnnihilusOP"""
